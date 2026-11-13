@@ -4,6 +4,8 @@
 
 New Journey is a community-driven bucket list mobile application built with **Flutter** and **Supabase**. The application allows users to explore restaurants, scenic locations, activities, and hidden gems while tracking places they have visited or plan to visit.
 
+<img width="851" height="1012" alt="image" src="https://github.com/user-attachments/assets/c7291dd4-5144-42fa-bcfa-c0eb3373b1cd" />
+
 
 # Authentication
 - **Multi-step sign-up** : 4-step registration collecting personal info, address (live OpenStreetMap autocomplete API), username, password, and profile photo
